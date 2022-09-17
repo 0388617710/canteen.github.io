@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configurations>
+  <Configuration id="1">
+    <location>886bf297-d358-40ab-0d88-08d9a3eac22d</location>
+    <sqlconnection>Data Source=10.11.7.23;Initial Catalog=SOFIC;User ID=itdept;Password=TH@c0123456;Connect Timeout=120</sqlconnection>
+  </Configuration>
+</Configurations>

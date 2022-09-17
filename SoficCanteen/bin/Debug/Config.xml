@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configurations>
+  <Configuration id="1">
+    <sqlconnection>Data Source=10.11.7.23;Initial Catalog=SUATAN_CHULAI;User ID=itdept;Password=TH@c0123456;Connect Timeout=120</sqlconnection>
+    <DiaDiemAn_Id>886bf297-d358-40ab-0d88-08d9a3eac22d</DiaDiemAn_Id>
+    <TenDiaDiemAn>Căn tin VTĐB</TenDiaDiemAn>
+    <LoaiThucDon_Id>31b8df8c-f216-4028-afa4-81a2bdfab80b</LoaiThucDon_Id>
+    <Ngay>2022-09-15</Ngay>
+    <KhungGioAn_Id>8b1b4c5d-d1eb-4e6a-8fbe-50abe35e32f9</KhungGioAn_Id>
+    <MaKhungGioAn>11:30 - 12:30</MaKhungGioAn>
+    <TenLoaiThucDon>Suất ăn chính</TenLoaiThucDon>
+  </Configuration>
+</Configurations>

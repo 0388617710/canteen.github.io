@@ -1,0 +1,132 @@
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\SoficCanteen.exe.config
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\SoficCanteen.exe
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\SoficCanteen.pdb
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevExpress.Data.v21.2.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\Guna.UI2.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevExpress.Data.v21.2.xml
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.csproj.AssemblyReference.cache
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.csproj.SuggestedBindingRedirects.cache
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.Form.resources
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.Login.resources
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.Properties.Resources.resources
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.csproj.GenerateResource.cache
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.csproj.CoreCompileInputs.cache
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.csproj.CopyComplete
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.exe
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.pdb
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.Setting.resources
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.exe.licenses
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\Keyboard.dll
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.Keyboard.resources
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.GuestForm.resources
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.ThanhToan.resources
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.ucGuestOrder.resources
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.ucOderItem.resources
+D:\OK\SoficCanteen\SoficCanteen\obj\Debug\SoficCanteen.ucMenuItem.resources
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevComponents.DotNetBar2.dll
+D:\OK\SoficCanteen\SoficCanteen\bin\Debug\DevComponents.DotNetBar2.xml
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\SoficCanteen.exe.config
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\SoficCanteen.exe
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\SoficCanteen.pdb
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevComponents.DotNetBar2.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevExpress.Data.v21.2.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\Guna.UI2.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\Keyboard.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevComponents.DotNetBar2.xml
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevExpress.Data.v21.2.xml
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.csproj.AssemblyReference.cache
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.csproj.SuggestedBindingRedirects.cache
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.Form.resources
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.GuestForm.resources
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.Keyboard.resources
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.Login.resources
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.Properties.Resources.resources
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.Setting.resources
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.ThanhToan.resources
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.ucGuestOrder.resources
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.ucMenuItem.resources
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.ucOderItem.resources
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.csproj.GenerateResource.cache
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.exe.licenses
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.csproj.CoreCompileInputs.cache
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.csproj.CopyComplete
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.exe
+D:\OK\SoficCanteen - Copy\SoficCanteen\obj\Debug\SoficCanteen.pdb
